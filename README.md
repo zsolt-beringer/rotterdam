@@ -1,1 +1,1 @@
-# Fuck Bad Things
+# Fsck Bad Things
